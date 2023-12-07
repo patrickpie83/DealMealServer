@@ -130,6 +130,7 @@
       "storage": 20,
       "price": 230,
       "state": "完售中",
+      "ingredient":"義大利麵條、油漬番茄、甜椒、匈牙利臘腸、九層塔",
       "nutrition": {
         "size": 350,
         "calories": 321,
