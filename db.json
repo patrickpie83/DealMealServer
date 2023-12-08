@@ -306,29 +306,6 @@
       }
     },
     {
-      "id": "2c22248c-779b-4c60-adc9-928fe8146dcd",
-      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B8%85%E7%88%BD%E8%B1%86%E8%94%AC%E9%9B%9E%E8%83%B8.jpg?raw=true",
-      "series": "塑身系列",
-      "name": "清爽豆蔬雞胸",
-      "storage": 20,
-      "price": 220,
-      "state": "完售中",
-      "ingredient": "碳烤雞胸肉、番茄、四季豆",
-      "nutrition": {
-        "size": 240,
-        "calories": 200,
-        "carb": 23,
-        "protein": 64,
-        "fat": 9.6
-      },
-      "heat": {
-        "microwave": "撕開包裝一角，放入微波爐加熱5分鐘",
-        "oven": "將食品倒入烤盤，放入烤箱170度加熱5分鐘",
-        "electricPot": "先在電鍋中加入半碗水，再將食品倒入盤內，放入電鍋加熱",
-        "pan": "將食品倒入平底鍋，加熱至所需溫度"
-      }
-    },
-    {
       "id": "83494862-5dca-4e98-bb45-f11824a8ccd2",
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B8%9B%E8%84%82%E8%9B%8B%E7%99%BD%E9%A4%90.jpg?raw=true",
       "series": "塑身系列",
