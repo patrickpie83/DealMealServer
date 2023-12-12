@@ -5,120 +5,221 @@
       "password": "$2a$10$mxnxZqpaV5Vjrs61Q2QyG.reguvfuv7iPH8CgRuaEnsvUARB3BKba",
       "name": "Patrick",
       "address": "高雄市左營區",
-      "id": "ddea107e-e4f3-4057-b877-15081caf582a"
+      "id": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "cartExist": false,
+      "historyOrder": [
+        {
+          "id": "75f98266-edaf-4521-a602-4443ce42cb5e",
+          "cart": [
+            {
+              "productId": "4c722f95-050b-4403-b365-25efbb8443e8",
+              "cartItemId": "ba88aaae-0a09-4597-ba83-877e4dede384",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productName": "九層塔義大利麵",
+              "productPrice": 120,
+              "quantity": 4
+            },
+            {
+              "productId": "e336f400-913d-4763-871b-66e1c67189dc",
+              "cartItemId": "fe50d725-e4d2-47b3-b057-f8a159497d10",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E8%84%82%E8%B1%AC%E8%82%89%E6%B0%B4%E9%A4%83.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productName": "低脂豬肉水餃",
+              "productPrice": 110,
+              "quantity": 2
+            }
+          ],
+          "total": 745,
+          "coupon": "happynewyear95",
+          "couponDiscount": "整筆訂單95折",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "街口支付",
+          "orderDate": "2023/12/11 17:59:43",
+          "status": "尚未處理"
+        },
+        {
+          "id": "624dbba9-5411-46dc-a42c-dd8bca7c883e",
+          "cart": [
+            {
+              "productId": "83494862-5dca-4e98-bb45-f11824a8ccd2",
+              "cartItemId": "7d60d5ee-3b72-4a8b-82fb-d03c9860479c",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B8%9B%E8%84%82%E8%9B%8B%E7%99%BD%E9%A4%90.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productName": "減脂蛋白餐",
+              "productPrice": 280,
+              "quantity": 10
+            }
+          ],
+          "total": 2380,
+          "coupon": "xmasspecial",
+          "couponDiscount": "整筆折500元",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區博愛三路123號",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023/12/11 18:0:50",
+          "status": "尚未處理"
+        },
+        {
+          "id": "5812f923-8ac3-4350-941a-30038ac925b4",
+          "cart": [
+            {
+              "productId": "10136e86-6f55-4a88-ba1e-37a149849e7c",
+              "cartItemId": "a15a11f6-a9fd-43ce-a814-53da1c1aacb9",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BD%8E%E6%B2%B9%E9%9B%9E%E7%B5%B2%E7%87%89%E9%A3%AF.jpg?raw=true",
+              "productSeries": "增肌系列",
+              "productName": "低油雞絲燉飯",
+              "productPrice": 220,
+              "quantity": 3
+            }
+          ],
+          "total": 740,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區博愛三路123號",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "linepay",
+          "orderDate": "2023/12/11 18:5:19",
+          "status": "尚未處理"
+        }
+      ]
     },
     {
       "email": "jay@mail.com",
       "password": "$2a$10$f14Jsz8thiuj4iEu8xyMaOzMf4omyNAGql8hOncGmRB/AfmrFZZMe",
       "id": "eb08df1e-6247-409e-94e1-b2a844160d17",
       "name": "jay",
-      "address": "新竹市東區"
+      "address": "新竹市東區",
+      "cartExist": false,
+      "historyOrder": []
+    },
+    {
+      "email": "patrick2@mail.com",
+      "password": "$2a$10$sxPeEITvMQQcXtYRMfKD3O70LwBD7wc6ndDqBW659z8fGaZkMKDnm",
+      "id": "3f73b948-627e-4c97-aa84-d6281a23f980",
+      "name": "patrick2",
+      "address": "高雄市",
+      "cartExist": false,
+      "historyOrder": []
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$iefA85O6aMVgstfutalw/uXYkpOtne1zfNrHQpLp/qlb3wZrf501K",
+      "id": "6bea1d68-b77f-4d21-ac58-a2e496e01adc",
+      "name": "admin",
+      "address": "null",
+      "cartExist": false,
+      "historyOrder": []
     }
   ],
-  "carts": [
-    {
-      "userId": "",
-      "cart": [
-        {
-          "cartItemId": "",
-          "quantity": "",
-          "subtotal": "",
-          "product": {
-            "productId": "",
-            "image": "",
-            "name": "",
-            "price": ""
-          }
-        },
-        {},
-        {},
-        {}
-      ],
-      "total": ""
-    },
-    {},
-    {},
-    {}
-  ],
+  "carts": [],
   "orders": [
     {
-      "date": "",
-      "orderId": "",
-      "status": "",
-      "buyer": {
-        "name": "",
-        "email": "",
-        "number": "",
-        "address": "",
-        "payment": ""
-      },
-      "products": [
+      "id": "75f98266-edaf-4521-a602-4443ce42cb5e",
+      "cart": [
         {
-          "cartItemId": "",
-          "quantity": "",
-          "subtotal": "",
-          "product": {
-            "productId": "",
-            "image": "",
-            "name": "",
-            "price": ""
-          }
+          "productId": "4c722f95-050b-4403-b365-25efbb8443e8",
+          "cartItemId": "ba88aaae-0a09-4597-ba83-877e4dede384",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productName": "九層塔義大利麵",
+          "productPrice": 120,
+          "quantity": 4
         },
-        {},
-        {},
-        {}
+        {
+          "productId": "e336f400-913d-4763-871b-66e1c67189dc",
+          "cartItemId": "fe50d725-e4d2-47b3-b057-f8a159497d10",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E8%84%82%E8%B1%AC%E8%82%89%E6%B0%B4%E9%A4%83.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productName": "低脂豬肉水餃",
+          "productPrice": 110,
+          "quantity": 2
+        }
       ],
-      "total": "",
-      "coupon": "",
-      "finalTotal": ""
+      "total": 745,
+      "coupon": "happynewyear95",
+      "couponDiscount": "整筆訂單95折",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "街口支付",
+      "orderDate": "2023/12/11 17:59:43",
+      "status": "尚未處理"
     },
-    {},
-    {},
-    {}
-  ],
-  "memberCenters": [
     {
-      "userId": "",
-      "history": [
+      "id": "624dbba9-5411-46dc-a42c-dd8bca7c883e",
+      "cart": [
         {
-          "date": "",
-          "orderId": "",
-          "status": "",
-          "buyer": {
-            "name": "",
-            "email": "",
-            "number": "",
-            "address": "",
-            "payment": ""
-          },
-          "products": [
-            {
-              "cartItemId": "",
-              "quantity": "",
-              "subtotal": "",
-              "product": {
-                "productId": "",
-                "image": "",
-                "name": "",
-                "price": ""
-              }
-            },
-            {},
-            {},
-            {}
-          ],
-          "total": "",
-          "coupon": "",
-          "finalTotal": ""
-        },
-        {},
-        {},
-        {}
-      ]
+          "productId": "83494862-5dca-4e98-bb45-f11824a8ccd2",
+          "cartItemId": "7d60d5ee-3b72-4a8b-82fb-d03c9860479c",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B8%9B%E8%84%82%E8%9B%8B%E7%99%BD%E9%A4%90.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productName": "減脂蛋白餐",
+          "productPrice": 280,
+          "quantity": 10
+        }
+      ],
+      "total": 2380,
+      "coupon": "xmasspecial",
+      "couponDiscount": "整筆折500元",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區博愛三路123號",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023/12/11 18:0:50",
+      "status": "尚未處理"
     },
-    {},
-    {},
-    {}
+    {
+      "id": "5812f923-8ac3-4350-941a-30038ac925b4",
+      "cart": [
+        {
+          "productId": "10136e86-6f55-4a88-ba1e-37a149849e7c",
+          "cartItemId": "a15a11f6-a9fd-43ce-a814-53da1c1aacb9",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BD%8E%E6%B2%B9%E9%9B%9E%E7%B5%B2%E7%87%89%E9%A3%AF.jpg?raw=true",
+          "productSeries": "增肌系列",
+          "productName": "低油雞絲燉飯",
+          "productPrice": 220,
+          "quantity": 3
+        }
+      ],
+      "total": 740,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區博愛三路123號",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "linepay",
+      "orderDate": "2023/12/11 18:5:19",
+      "status": "尚未處理"
+    }
   ],
   "products": [
     {
@@ -698,7 +799,7 @@
     },
     {
       "id": "fcaa17ae-2c01-4a03-ac0a-0b2506125cca",
-      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%85%99%E7%87%BB%E9%AE%AD%E9%AD%9A%E6%99%82%E8%94%AC.jpg?raw=true",
+      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%87%89%E7%85%AE%E8%8F%A0%E8%8F%9C%E4%BD%90%E9%AE%AD%E9%AD%9A.jpeg?raw=true",
       "series": "增肌系列",
       "name": "燉煮菠菜佐鮭魚",
       "storage": 10,
@@ -721,7 +822,7 @@
     },
     {
       "id": "76ec2934-ad04-4812-ba02-805d4c4a496f",
-      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%85%99%E7%87%BB%E9%AE%AD%E9%AD%9A%E6%99%82%E8%94%AC.jpg?raw=true",
+      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%89%9B%E8%B1%AC%E9%9B%99%E9%9F%BF%E9%A6%AC%E9%88%B4%E8%96%AF.jpeg?raw=true",
       "series": "增肌系列",
       "name": "牛豬雙響馬鈴薯",
       "storage": 20,
@@ -813,7 +914,7 @@
     },
     {
       "id": "4233eb93-1e4f-4d65-9fb7-1595ab9c5f07",
-      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
+      "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%B0%8F%E9%BA%A5%E9%BA%B5%E5%8C%85%E4%BD%90%E6%AD%90%E5%A7%86%E8%9B%8B%E7%83%A4%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
       "series": "早餐系列",
       "name": "小麥麵包歐姆蛋馬鈴薯",
       "storage": 10,
@@ -1065,32 +1166,6 @@
       }
     }
   ],
-  "previewProducts": [
-    {
-      "id": "",
-      "image": "",
-      "series": "",
-      "name": "",
-      "storage": "",
-      "price": "",
-      "state": "",
-      "nutrition": {
-        "calories": "",
-        "carb": "",
-        "protein": "",
-        "fat": ""
-      },
-      "heat": {
-        "microwave": "",
-        "oven": "",
-        "electricPot": "",
-        "pan": ""
-      }
-    },
-    {},
-    {},
-    {}
-  ],
   "sales": [
     {
       "monthId": "",
@@ -1115,16 +1190,40 @@
   ],
   "coupons": [
     {
-      "code": "",
-      "date": "",
-      "name": "",
-      "usage": "",
-      "discount": "",
-      "state": "",
-      "useCount": ""
+      "id": "welcome8",
+      "date": "2023-12-10",
+      "name": "會員註冊禮",
+      "usage": "僅一筆",
+      "discount": "整筆訂單8折",
+      "state": "停用中",
+      "useCount": 0
     },
-    {},
-    {},
-    {}
+    {
+      "id": "dealmealthanks",
+      "date": "2023-12-10",
+      "name": "感謝祭",
+      "usage": "每筆",
+      "discount": "整筆訂單9折",
+      "state": "停用中",
+      "useCount": 0
+    },
+    {
+      "id": "happynewyear95",
+      "date": "2024-01-01",
+      "name": "節日活動",
+      "usage": "每筆",
+      "discount": "整筆訂單95折",
+      "state": "發佈中",
+      "useCount": 1
+    },
+    {
+      "id": "xmasspecial",
+      "date": "2023-12-25",
+      "name": "節日活動",
+      "usage": "僅一筆",
+      "discount": "整筆折500元",
+      "state": "發佈中",
+      "useCount": 1
+    }
   ]
 }
