@@ -1047,6 +1047,15 @@
       "discount": "整筆折500元",
       "state": "發佈中",
       "useCount": 0
+    },
+    {
+      "id": "takeshi95",
+      "date": "2024-01-01",
+      "name": "藝人業配合作",
+      "usage": "每筆",
+      "discount": "整筆訂單95折",
+      "state": "發佈中",
+      "useCount": 0
     }
   ]
 }
