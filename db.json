@@ -7,7 +7,258 @@
       "address": "高雄市左營區",
       "id": "ddea107e-e4f3-4057-b877-15081caf582a",
       "cartExist": false,
-      "historyOrder": []
+      "usedCoupon": [
+        "welcome8",
+        "xmasspecial"
+      ],
+      "historyOrder": [
+        {
+          "id": "f9450cc0-36d3-474f-aa15-e520e36074d1",
+          "cart": [
+            {
+              "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+              "cartItemId": "e56fce22-9f15-44b9-9c07-a15080f0818f",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+              "productSeries": "增肌系列",
+              "productStorage": 17,
+              "productName": "五穀蝦仁風味飯",
+              "productPrice": 280,
+              "quantity": 6
+            },
+            {
+              "productId": "fcaa17ae-2c01-4a03-ac0a-0b2506125cca",
+              "cartItemId": "c64e7f2c-2fb2-4021-9005-47affae120b2",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%87%89%E7%85%AE%E8%8F%A0%E8%8F%9C%E4%BD%90%E9%AE%AD%E9%AD%9A.jpeg?raw=true",
+              "productSeries": "增肌系列",
+              "productStorage": 10,
+              "productName": "燉煮菠菜佐鮭魚",
+              "productPrice": 360,
+              "quantity": 2
+            }
+          ],
+          "total": 2240,
+          "coupon": "dealmealthanks",
+          "couponDiscount": "整筆訂單9折",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "linepay",
+          "orderDate": "2023-12-22 17:50:49",
+          "status": "尚未處理"
+        },
+        {
+          "id": "1e83dd5b-7818-4343-8c27-352224d1c1be",
+          "cart": [
+            {
+              "productId": "27c04a06-6960-402b-b8b5-63e2eabe027c",
+              "cartItemId": "0c00f10a-54bc-4807-b32a-c49dc3241079",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%98%E8%9B%8B%E9%A6%AC%E8%8A%AC.jpg?raw=true",
+              "productSeries": "早餐系列",
+              "productStorage": 25,
+              "productName": "烘蛋馬芬",
+              "productPrice": 89,
+              "quantity": 10
+            },
+            {
+              "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+              "cartItemId": "e922770e-1f50-48f3-ac9e-cc14c5276651",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+              "productSeries": "早餐系列",
+              "productStorage": 20,
+              "productName": "烤花椰菜佐番茄馬鈴薯",
+              "productPrice": 130,
+              "quantity": 3
+            }
+          ],
+          "total": 1360,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023-12-22 17:51:48",
+          "status": "尚未處理"
+        },
+        {
+          "id": "af08b523-d52b-44ed-ac5c-67af7b7cf98e",
+          "cart": [
+            {
+              "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+              "cartItemId": "3c9d111e-5a85-4a2d-a041-15f1348e372c",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+              "productSeries": "早餐系列",
+              "productStorage": 17,
+              "productName": "烤花椰菜佐番茄馬鈴薯",
+              "productPrice": 130,
+              "quantity": 10
+            }
+          ],
+          "total": 1380,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023-12-22 23:45:49",
+          "status": "尚未處理"
+        },
+        {
+          "id": "9f0878ab-6e75-4936-b09d-86503d5ec99c",
+          "cart": [
+            {
+              "productId": "8ae7fce7-77ed-4090-8069-1b0fde4c785e",
+              "cartItemId": "ef02365d-fc3b-43a6-9cab-3da7c9aa6783",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%94%AC%E8%8F%9C%E7%95%AA%E8%8C%84%E8%9D%B4%E8%9D%B6%E9%BA%B5.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 20,
+              "productName": "蔬菜番茄蝴蝶麵",
+              "productPrice": 160,
+              "quantity": 16
+            }
+          ],
+          "total": 2640,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023-12-25 13:16:23",
+          "status": "尚未處理"
+        },
+        {
+          "id": "f4ceb3fc-5898-48c8-ae6a-c9b835f6b9bf",
+          "cart": [
+            {
+              "productId": "be1550ba-8968-40e8-abba-c9214b01136d",
+              "cartItemId": "f47041f5-d7af-4aa5-93d6-a23ece1874a1",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%9B%8B%E6%B2%99%E6%8B%89poke.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 11,
+              "productName": "夏威夷蛋沙拉poke",
+              "productPrice": 280,
+              "quantity": 1
+            },
+            {
+              "productId": "a4efe2dc-82f1-4da3-ac4d-ae06b403718f",
+              "cartItemId": "2f13a3c9-1f8b-4f92-b765-9ee923b7f6ea",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 10,
+              "productName": "測試商品01",
+              "productPrice": 100,
+              "quantity": 1
+            }
+          ],
+          "total": 460,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "街口支付",
+          "orderDate": "2023-12-25 17:19:15",
+          "status": "尚未處理"
+        },
+        {
+          "id": "8ee22873-b19f-4502-b2af-2f06af820886",
+          "cart": [
+            {
+              "productId": "4460015f-e713-405e-96c4-fbcbc5aca81b",
+              "cartItemId": "b7b42fd5-a2a0-48f5-b932-20999e5e8dcd",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E6%B2%B9%E8%88%9E%E8%8F%87%E7%87%89%E9%A3%AF.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 20,
+              "productName": "低油舞菇燉飯",
+              "productPrice": 160,
+              "quantity": 5
+            },
+            {
+              "productId": "a869a4a5-8b26-419e-b35c-056ed47020b3",
+              "cartItemId": "0bf752cc-5b6a-4349-84d7-fd33e636842f",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%96%84%E9%B9%BD%E9%9D%92%E8%B1%86%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 20,
+              "productName": "薄鹽青豆風味飯",
+              "productPrice": 160,
+              "quantity": 5
+            }
+          ],
+          "total": 1360,
+          "coupon": "welcome8",
+          "couponDiscount": "整筆訂單8折",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023-12-25 17:53:46",
+          "status": "尚未處理"
+        },
+        {
+          "id": "ab1d89e8-787d-4fea-86c8-5be809b39761",
+          "cart": [
+            {
+              "productId": "4c722f95-050b-4403-b365-25efbb8443e8",
+              "cartItemId": "44e2989b-f645-4332-8061-ccd561d20f28",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 2,
+              "productName": "九層塔義大利麵",
+              "productPrice": 120,
+              "quantity": 1
+            },
+            {
+              "productId": "efaa43c1-3619-4499-8a6f-840b4188ff6b",
+              "cartItemId": "a92928eb-e359-4125-a0e3-adfa73f3ea6d",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E7%94%B0%E5%9C%92%E8%94%AC%E8%8F%9C%E7%88%BD%E8%BA%AB%E9%A4%83.jpg?raw=true",
+              "productSeries": "塑身系列",
+              "productStorage": 20,
+              "productName": "田園蔬菜爽身餃",
+              "productPrice": 130,
+              "quantity": 10
+            }
+          ],
+          "total": 1000,
+          "coupon": "xmasspecial",
+          "couponDiscount": "整筆折500元",
+          "deliverInfo": {
+            "name": "Patrick",
+            "email": "patrick@mail.com",
+            "address": "高雄市左營區",
+            "tel": "0912345678"
+          },
+          "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+          "payment": "applepay",
+          "orderDate": "2023-12-25 18:19:36",
+          "status": "尚未處理"
+        }
+      ]
     },
     {
       "email": "jay@mail.com",
@@ -16,7 +267,75 @@
       "name": "jay",
       "address": "新竹市東區",
       "cartExist": false,
-      "historyOrder": []
+      "usedCoupon": [],
+      "historyOrder": [
+        {
+          "id": "3fd7160e-a9aa-4328-9b11-948b315013b6",
+          "cart": [
+            {
+              "productId": "ca38a3d4-cad0-4eaa-90eb-4487babeb016",
+              "cartItemId": "923f4fb4-886a-48ae-a949-53ad52456088",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
+              "productSeries": "早餐系列",
+              "productStorage": 11,
+              "productName": "優格黃金地瓜",
+              "productPrice": 180,
+              "quantity": 6
+            }
+          ],
+          "total": 1052,
+          "coupon": "dealmealthanks",
+          "couponDiscount": "整筆訂單9折",
+          "deliverInfo": {
+            "name": "jay",
+            "email": "jay@mail.com",
+            "address": "新竹市東區",
+            "tel": "0912345678"
+          },
+          "memberId": "eb08df1e-6247-409e-94e1-b2a844160d17",
+          "payment": "applepay",
+          "orderDate": "2023-12-22 17:45:30",
+          "status": "尚未處理"
+        },
+        {
+          "id": "cb12e590-6bd8-46b4-bfca-385ef7070c8b",
+          "cart": [
+            {
+              "productId": "e64da803-0e56-4a25-a47e-ade1cd0578a7",
+              "cartItemId": "12c23b55-bfd5-4b4d-b69d-f34eab1ff675",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%98%BF%E8%94%94%E9%A3%AF.jpg?raw=true",
+              "productSeries": "增肌系列",
+              "productStorage": 20,
+              "productName": "五穀蘿蔔飯",
+              "productPrice": 220,
+              "quantity": 10
+            },
+            {
+              "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+              "cartItemId": "0a9e626b-817d-4f18-8a53-d92694bfe651",
+              "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+              "productSeries": "增肌系列",
+              "productStorage": 19,
+              "productName": "五穀蝦仁風味飯",
+              "productPrice": 280,
+              "quantity": 2
+            }
+          ],
+          "total": 2840,
+          "coupon": "",
+          "couponDiscount": "",
+          "deliverInfo": {
+            "name": "jay",
+            "email": "jay@mail.com",
+            "address": "新竹市東區",
+            "tel": "0912345678"
+          },
+          "memberId": "eb08df1e-6247-409e-94e1-b2a844160d17",
+          "payment": "街口支付",
+          "orderDate": "2023-12-22 17:48:14",
+          "status": "尚未處理"
+        }
+      ]
     },
     {
       "email": "patrick2@mail.com",
@@ -25,6 +344,7 @@
       "name": "patrick2",
       "address": "高雄市",
       "cartExist": false,
+      "usedCoupon": [],
       "historyOrder": []
     },
     {
@@ -34,6 +354,7 @@
       "name": "admin",
       "address": "null",
       "cartExist": false,
+      "usedCoupon": [],
       "historyOrder": [],
       "role": "admin"
     },
@@ -44,18 +365,332 @@
       "name": "金城武",
       "address": "高雄市新興區",
       "cartExist": false,
+      "usedCoupon": [],
       "historyOrder": []
     }
   ],
   "carts": [],
-  "orders": [],
+  "orders": [
+    {
+      "id": "3fd7160e-a9aa-4328-9b11-948b315013b6",
+      "cart": [
+        {
+          "productId": "ca38a3d4-cad0-4eaa-90eb-4487babeb016",
+          "cartItemId": "923f4fb4-886a-48ae-a949-53ad52456088",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
+          "productSeries": "早餐系列",
+          "productStorage": 11,
+          "productName": "優格黃金地瓜",
+          "productPrice": 180,
+          "quantity": 6
+        }
+      ],
+      "total": 1052,
+      "coupon": "dealmealthanks",
+      "couponDiscount": "整筆訂單9折",
+      "deliverInfo": {
+        "name": "jay",
+        "email": "jay@mail.com",
+        "address": "新竹市東區",
+        "tel": "0912345678"
+      },
+      "memberId": "eb08df1e-6247-409e-94e1-b2a844160d17",
+      "payment": "applepay",
+      "orderDate": "2023-12-22 17:45:30",
+      "status": "尚未處理"
+    },
+    {
+      "id": "cb12e590-6bd8-46b4-bfca-385ef7070c8b",
+      "cart": [
+        {
+          "productId": "e64da803-0e56-4a25-a47e-ade1cd0578a7",
+          "cartItemId": "12c23b55-bfd5-4b4d-b69d-f34eab1ff675",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%98%BF%E8%94%94%E9%A3%AF.jpg?raw=true",
+          "productSeries": "增肌系列",
+          "productStorage": 20,
+          "productName": "五穀蘿蔔飯",
+          "productPrice": 220,
+          "quantity": 10
+        },
+        {
+          "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+          "cartItemId": "0a9e626b-817d-4f18-8a53-d92694bfe651",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "productSeries": "增肌系列",
+          "productStorage": 19,
+          "productName": "五穀蝦仁風味飯",
+          "productPrice": 280,
+          "quantity": 2
+        }
+      ],
+      "total": 2840,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "jay",
+        "email": "jay@mail.com",
+        "address": "新竹市東區",
+        "tel": "0912345678"
+      },
+      "memberId": "eb08df1e-6247-409e-94e1-b2a844160d17",
+      "payment": "街口支付",
+      "orderDate": "2023-12-22 17:48:14",
+      "status": "尚未處理"
+    },
+    {
+      "id": "f9450cc0-36d3-474f-aa15-e520e36074d1",
+      "cart": [
+        {
+          "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+          "cartItemId": "e56fce22-9f15-44b9-9c07-a15080f0818f",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "productSeries": "增肌系列",
+          "productStorage": 17,
+          "productName": "五穀蝦仁風味飯",
+          "productPrice": 280,
+          "quantity": 6
+        },
+        {
+          "productId": "fcaa17ae-2c01-4a03-ac0a-0b2506125cca",
+          "cartItemId": "c64e7f2c-2fb2-4021-9005-47affae120b2",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%87%89%E7%85%AE%E8%8F%A0%E8%8F%9C%E4%BD%90%E9%AE%AD%E9%AD%9A.jpeg?raw=true",
+          "productSeries": "增肌系列",
+          "productStorage": 10,
+          "productName": "燉煮菠菜佐鮭魚",
+          "productPrice": 360,
+          "quantity": 2
+        }
+      ],
+      "total": 2240,
+      "coupon": "dealmealthanks",
+      "couponDiscount": "整筆訂單9折",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "linepay",
+      "orderDate": "2023-12-22 17:50:49",
+      "status": "尚未處理"
+    },
+    {
+      "id": "1e83dd5b-7818-4343-8c27-352224d1c1be",
+      "cart": [
+        {
+          "productId": "27c04a06-6960-402b-b8b5-63e2eabe027c",
+          "cartItemId": "0c00f10a-54bc-4807-b32a-c49dc3241079",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%98%E8%9B%8B%E9%A6%AC%E8%8A%AC.jpg?raw=true",
+          "productSeries": "早餐系列",
+          "productStorage": 25,
+          "productName": "烘蛋馬芬",
+          "productPrice": 89,
+          "quantity": 10
+        },
+        {
+          "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+          "cartItemId": "e922770e-1f50-48f3-ac9e-cc14c5276651",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+          "productSeries": "早餐系列",
+          "productStorage": 20,
+          "productName": "烤花椰菜佐番茄馬鈴薯",
+          "productPrice": 130,
+          "quantity": 3
+        }
+      ],
+      "total": 1360,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023-12-22 17:51:48",
+      "status": "尚未處理"
+    },
+    {
+      "id": "af08b523-d52b-44ed-ac5c-67af7b7cf98e",
+      "cart": [
+        {
+          "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+          "cartItemId": "3c9d111e-5a85-4a2d-a041-15f1348e372c",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+          "productSeries": "早餐系列",
+          "productStorage": 17,
+          "productName": "烤花椰菜佐番茄馬鈴薯",
+          "productPrice": 130,
+          "quantity": 10
+        }
+      ],
+      "total": 1380,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023-12-22 23:45:49",
+      "status": "尚未處理"
+    },
+    {
+      "id": "9f0878ab-6e75-4936-b09d-86503d5ec99c",
+      "cart": [
+        {
+          "productId": "8ae7fce7-77ed-4090-8069-1b0fde4c785e",
+          "cartItemId": "ef02365d-fc3b-43a6-9cab-3da7c9aa6783",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%94%AC%E8%8F%9C%E7%95%AA%E8%8C%84%E8%9D%B4%E8%9D%B6%E9%BA%B5.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 20,
+          "productName": "蔬菜番茄蝴蝶麵",
+          "productPrice": 160,
+          "quantity": 16
+        }
+      ],
+      "total": 2640,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023-12-25 13:16:23",
+      "status": "尚未處理"
+    },
+    {
+      "id": "f4ceb3fc-5898-48c8-ae6a-c9b835f6b9bf",
+      "cart": [
+        {
+          "productId": "be1550ba-8968-40e8-abba-c9214b01136d",
+          "cartItemId": "f47041f5-d7af-4aa5-93d6-a23ece1874a1",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%9B%8B%E6%B2%99%E6%8B%89poke.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 11,
+          "productName": "夏威夷蛋沙拉poke",
+          "productPrice": 280,
+          "quantity": 1
+        },
+        {
+          "productId": "a4efe2dc-82f1-4da3-ac4d-ae06b403718f",
+          "cartItemId": "2f13a3c9-1f8b-4f92-b765-9ee923b7f6ea",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 10,
+          "productName": "測試商品01",
+          "productPrice": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 460,
+      "coupon": "",
+      "couponDiscount": "",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "街口支付",
+      "orderDate": "2023-12-25 17:19:15",
+      "status": "尚未處理"
+    },
+    {
+      "id": "8ee22873-b19f-4502-b2af-2f06af820886",
+      "cart": [
+        {
+          "productId": "4460015f-e713-405e-96c4-fbcbc5aca81b",
+          "cartItemId": "b7b42fd5-a2a0-48f5-b932-20999e5e8dcd",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E6%B2%B9%E8%88%9E%E8%8F%87%E7%87%89%E9%A3%AF.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 20,
+          "productName": "低油舞菇燉飯",
+          "productPrice": 160,
+          "quantity": 5
+        },
+        {
+          "productId": "a869a4a5-8b26-419e-b35c-056ed47020b3",
+          "cartItemId": "0bf752cc-5b6a-4349-84d7-fd33e636842f",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%96%84%E9%B9%BD%E9%9D%92%E8%B1%86%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 20,
+          "productName": "薄鹽青豆風味飯",
+          "productPrice": 160,
+          "quantity": 5
+        }
+      ],
+      "total": 1360,
+      "coupon": "welcome8",
+      "couponDiscount": "整筆訂單8折",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023-12-25 17:53:46",
+      "status": "尚未處理"
+    },
+    {
+      "id": "ab1d89e8-787d-4fea-86c8-5be809b39761",
+      "cart": [
+        {
+          "productId": "4c722f95-050b-4403-b365-25efbb8443e8",
+          "cartItemId": "44e2989b-f645-4332-8061-ccd561d20f28",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 2,
+          "productName": "九層塔義大利麵",
+          "productPrice": 120,
+          "quantity": 1
+        },
+        {
+          "productId": "efaa43c1-3619-4499-8a6f-840b4188ff6b",
+          "cartItemId": "a92928eb-e359-4125-a0e3-adfa73f3ea6d",
+          "productImage": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E7%94%B0%E5%9C%92%E8%94%AC%E8%8F%9C%E7%88%BD%E8%BA%AB%E9%A4%83.jpg?raw=true",
+          "productSeries": "塑身系列",
+          "productStorage": 20,
+          "productName": "田園蔬菜爽身餃",
+          "productPrice": 130,
+          "quantity": 10
+        }
+      ],
+      "total": 1000,
+      "coupon": "xmasspecial",
+      "couponDiscount": "整筆折500元",
+      "deliverInfo": {
+        "name": "Patrick",
+        "email": "patrick@mail.com",
+        "address": "高雄市左營區",
+        "tel": "0912345678"
+      },
+      "memberId": "ddea107e-e4f3-4057-b877-15081caf582a",
+      "payment": "applepay",
+      "orderDate": "2023-12-25 18:19:36",
+      "status": "尚未處理"
+    }
+  ],
   "products": [
     {
       "id": "4c722f95-050b-4403-b365-25efbb8443e8",
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
       "series": "塑身系列",
       "name": "九層塔義大利麵",
-      "storage": 3,
+      "storage": 8,
       "price": 120,
       "state": "販售中",
       "ingredient": "義大利麵條、九層塔、油漬番茄、蒜末",
@@ -78,9 +713,9 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E8%84%82%E8%B1%AC%E8%82%89%E6%B0%B4%E9%A4%83.jpg?raw=true",
       "series": "塑身系列",
       "name": "低脂豬肉水餃",
-      "storage": 0,
+      "storage": 8,
       "price": 110,
-      "state": "完售中",
+      "state": "販售中",
       "ingredient": "餃子皮、高麗菜、豬絞肉",
       "nutrition": {
         "size": 260,
@@ -101,9 +736,9 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E5%9D%87%E8%A1%A1%E9%9B%9E%E8%82%89%E8%92%9F%E8%92%BB%E9%BA%B5.jpg?raw=true",
       "series": "塑身系列",
       "name": "均衡雞肉蒟蒻麵",
-      "storage": 9,
+      "storage": 0,
       "price": 230,
-      "state": "販售中",
+      "state": "完售中",
       "ingredient": "蒟蒻麵、碳烤雞肉、水煮蛋、玉米、青江菜、扁豆、洋蔥",
       "nutrition": {
         "size": 380,
@@ -124,7 +759,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%9B%8B%E6%B2%99%E6%8B%89poke.jpg?raw=true",
       "series": "塑身系列",
       "name": "夏威夷蛋沙拉poke",
-      "storage": 11,
+      "storage": 10,
       "price": 280,
       "state": "販售中",
       "ingredient": "雞蛋、杏仁果、花椰菜、小黃瓜、青豆、酪梨、馬鈴薯",
@@ -193,7 +828,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B4%BB%E5%8A%9B%E5%AB%A9%E8%9B%8B%E9%9D%92%E9%86%AC%E7%87%89%E9%A3%AF.jpg?raw=true",
       "series": "塑身系列",
       "name": "活力嫩蛋青醬燉飯",
-      "storage": 19,
+      "storage": 14,
       "price": 220,
       "state": "販售中",
       "ingredient": "水波嫩蛋、青醬、卡納羅利米、番茄、羅勒",
@@ -285,7 +920,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E7%94%B0%E5%9C%92%E8%94%AC%E8%8F%9C%E7%88%BD%E8%BA%AB%E9%A4%83.jpg?raw=true",
       "series": "塑身系列",
       "name": "田園蔬菜爽身餃",
-      "storage": 20,
+      "storage": 10,
       "price": 130,
       "state": "販售中",
       "ingredient": "蔬菜餃子皮、高麗菜、玉米、豬絞肉",
@@ -308,7 +943,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%94%AC%E8%8F%9C%E7%95%AA%E8%8C%84%E8%9D%B4%E8%9D%B6%E9%BA%B5.jpg?raw=true",
       "series": "塑身系列",
       "name": "蔬菜番茄蝴蝶麵",
-      "storage": 20,
+      "storage": 4,
       "price": 160,
       "state": "販售中",
       "ingredient": "蝴蝶麵、青醬、羅勒、番茄、烤時蔬",
@@ -331,7 +966,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%96%84%E9%B9%BD%E9%9D%92%E8%B1%86%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
       "series": "塑身系列",
       "name": "薄鹽青豆風味飯",
-      "storage": 20,
+      "storage": 15,
       "price": 160,
       "state": "販售中",
       "ingredient": "糙米飯、青豆、七味粉",
@@ -400,7 +1035,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E6%B2%B9%E8%88%9E%E8%8F%87%E7%87%89%E9%A3%AF.jpg?raw=true",
       "series": "塑身系列",
       "name": "低油舞菇燉飯",
-      "storage": 20,
+      "storage": 15,
       "price": 160,
       "state": "販售中",
       "ingredient": "白飯、舞菇、紅蘿蔔、山藥、柴魚",
@@ -423,7 +1058,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%98%BF%E8%94%94%E9%A3%AF.jpg?raw=true",
       "series": "增肌系列",
       "name": "五穀蘿蔔飯",
-      "storage": 20,
+      "storage": 10,
       "price": 220,
       "state": "販售中",
       "ingredient": "五穀飯、紅蘿蔔、炒雞蛋、玉米",
@@ -446,7 +1081,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
       "series": "增肌系列",
       "name": "五穀蝦仁風味飯",
-      "storage": 20,
+      "storage": 11,
       "price": 280,
       "state": "販售中",
       "ingredient": "五穀飯、草蝦仁、炒雞蛋、番茄、蔥末",
@@ -492,9 +1127,9 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BD%8E%E8%84%82%E7%89%9B%E8%82%89%E7%87%89%E9%A3%AF.jpg?raw=true",
       "series": "增肌系列",
       "name": "低脂牛肉燉飯",
-      "storage": 10,
+      "storage": 0,
       "price": 320,
-      "state": "販售中",
+      "state": "完售中",
       "ingredient": "紅酒、牛肉、燉飯、蘑菇、馬鈴薯",
       "nutrition": {
         "size": 880,
@@ -561,9 +1196,9 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E6%B8%85%E7%87%89%E9%A2%A8%E5%91%B3%E8%B1%AC%E8%82%89%E6%B9%AF%E9%A4%83.jpg?raw=true",
       "series": "增肌系列",
       "name": "清燉風味豬肉湯餃",
-      "storage": 20,
+      "storage": 7,
       "price": 220,
-      "state": "販售中",
+      "state": "完售中",
       "ingredient": "豬絞肉、高麗菜、薄鹽醬油、芹菜",
       "nutrition": {
         "size": 620,
@@ -630,7 +1265,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%87%89%E7%85%AE%E8%8F%A0%E8%8F%9C%E4%BD%90%E9%AE%AD%E9%AD%9A.jpeg?raw=true",
       "series": "增肌系列",
       "name": "燉煮菠菜佐鮭魚",
-      "storage": 10,
+      "storage": 8,
       "price": 360,
       "state": "販售中",
       "ingredient": "挪威鮭魚、菠菜、番茄、馬鈴薯",
@@ -653,7 +1288,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%89%9B%E8%B1%AC%E9%9B%99%E9%9F%BF%E9%A6%AC%E9%88%B4%E8%96%AF.jpeg?raw=true",
       "series": "增肌系列",
       "name": "牛豬雙響馬鈴薯",
-      "storage": 20,
+      "storage": 19,
       "price": 300,
       "state": "販售中",
       "ingredient": "烤牛肉、烤豬里肌、馬鈴薯、茄子、櫛瓜",
@@ -722,7 +1357,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
       "series": "早餐系列",
       "name": "優格黃金地瓜",
-      "storage": 20,
+      "storage": 5,
       "price": 180,
       "state": "販售中",
       "ingredient": "黃金地瓜、希臘優格",
@@ -747,7 +1382,7 @@
       "name": "小麥麵包歐姆蛋馬鈴薯",
       "storage": 10,
       "price": 280,
-      "state": "販售中",
+      "state": "完售中",
       "ingredient": "小麥麵包、歐姆蛋、時蔬、烤馬鈴薯、辣椒",
       "nutrition": {
         "size": 400,
@@ -860,7 +1495,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%98%E8%9B%8B%E9%A6%AC%E8%8A%AC.jpg?raw=true",
       "series": "早餐系列",
       "name": "烘蛋馬芬",
-      "storage": 25,
+      "storage": 15,
       "price": 89,
       "state": "販售中",
       "ingredient": "雞蛋、菠菜、番茄、香蔥、火腿",
@@ -883,9 +1518,9 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
       "series": "早餐系列",
       "name": "烤花椰菜佐番茄馬鈴薯",
-      "storage": 20,
+      "storage": 7,
       "price": 130,
-      "state": "販售中",
+      "state": "完售中",
       "ingredient": "烤馬鈴薯、紅蘿蔔、醃漬小番茄、烤花椰菜",
       "nutrition": {
         "size": 389,
@@ -975,7 +1610,7 @@
       "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C%E6%B2%99%E6%8B%89%E7%83%A4%E8%82%89%E4%B8%B8.jpg?raw=true",
       "series": "早餐系列",
       "name": "黃金地瓜沙拉烤肉丸",
-      "storage": 10,
+      "storage": 9,
       "price": 160,
       "state": "販售中",
       "ingredient": "黃金地瓜、紅蘿蔔玉米沙拉、瑞典烤肉丸",
@@ -997,18 +1632,238 @@
   "productsEditTemp": [],
   "sales": [
     {
-      "monthId": "",
+      "monthId": "2023-11",
       "products": [
         {
-          "productId": "",
-          "image": "",
-          "series": "",
-          "name": "",
-          "price": "",
-          "saleQuantity": "",
-          "saleFigures": ""
+          "productId": "ca38a3d4-cad0-4eaa-90eb-4487babeb016",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
+          "series": "早餐系列",
+          "name": "優格黃金地瓜",
+          "price": 180,
+          "saleQuantity": 2,
+          "saleFigures": 360
         }
-      ]
+      ],
+      "id": 1
+    },
+    {
+      "monthId": "2023-11",
+      "products": [
+        {
+          "productId": "8ae7fce7-77ed-4090-8069-1b0fde4c785e",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%94%AC%E8%8F%9C%E7%95%AA%E8%8C%84%E8%9D%B4%E8%9D%B6%E9%BA%B5.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "蔬菜番茄蝴蝶麵",
+          "price": 160,
+          "saleQuantity": 16,
+          "saleFigures": 2560
+        }
+      ],
+      "id": 2
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "ca38a3d4-cad0-4eaa-90eb-4487babeb016",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E5%84%AA%E6%A0%BC%E9%BB%83%E9%87%91%E5%9C%B0%E7%93%9C.jpg?raw=true",
+          "series": "早餐系列",
+          "name": "優格黃金地瓜",
+          "price": 180,
+          "saleQuantity": 6,
+          "saleFigures": 1080
+        }
+      ],
+      "id": 3
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "e64da803-0e56-4a25-a47e-ade1cd0578a7",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%98%BF%E8%94%94%E9%A3%AF.jpg?raw=true",
+          "series": "增肌系列",
+          "name": "五穀蘿蔔飯",
+          "price": 220,
+          "saleQuantity": 10,
+          "saleFigures": 2200
+        },
+        {
+          "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "series": "增肌系列",
+          "name": "五穀蝦仁風味飯",
+          "price": 280,
+          "saleQuantity": 2,
+          "saleFigures": 560
+        }
+      ],
+      "id": 4
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "26868288-c0a7-4f6e-b678-9e49e5015b54",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E4%BA%94%E7%A9%80%E8%9D%A6%E4%BB%81%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "series": "增肌系列",
+          "name": "五穀蝦仁風味飯",
+          "price": 280,
+          "saleQuantity": 6,
+          "saleFigures": 1680
+        },
+        {
+          "productId": "fcaa17ae-2c01-4a03-ac0a-0b2506125cca",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A2%9E%E8%82%8C%EF%BC%BF%E7%87%89%E7%85%AE%E8%8F%A0%E8%8F%9C%E4%BD%90%E9%AE%AD%E9%AD%9A.jpeg?raw=true",
+          "series": "增肌系列",
+          "name": "燉煮菠菜佐鮭魚",
+          "price": 360,
+          "saleQuantity": 2,
+          "saleFigures": 720
+        }
+      ],
+      "id": 5
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "27c04a06-6960-402b-b8b5-63e2eabe027c",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%98%E8%9B%8B%E9%A6%AC%E8%8A%AC.jpg?raw=true",
+          "series": "早餐系列",
+          "name": "烘蛋馬芬",
+          "price": 89,
+          "saleQuantity": 10,
+          "saleFigures": 890
+        },
+        {
+          "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+          "series": "早餐系列",
+          "name": "烤花椰菜佐番茄馬鈴薯",
+          "price": 130,
+          "saleQuantity": 3,
+          "saleFigures": 390
+        }
+      ],
+      "id": 6
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "21d0cf55-583d-4d50-9d45-2e5f1a18e720",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E6%97%A9%E9%A4%90%EF%BC%BF%E7%83%A4%E8%8A%B1%E6%A4%B0%E8%8F%9C%E4%BD%90%E7%95%AA%E8%8C%84%E9%A6%AC%E9%88%B4%E8%96%AF.jpg?raw=true",
+          "series": "早餐系列",
+          "name": "烤花椰菜佐番茄馬鈴薯",
+          "price": 130,
+          "saleQuantity": 10,
+          "saleFigures": 1300
+        }
+      ],
+      "id": 7
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "8ae7fce7-77ed-4090-8069-1b0fde4c785e",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%94%AC%E8%8F%9C%E7%95%AA%E8%8C%84%E8%9D%B4%E8%9D%B6%E9%BA%B5.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "蔬菜番茄蝴蝶麵",
+          "price": 160,
+          "saleQuantity": 16,
+          "saleFigures": 2560
+        }
+      ],
+      "id": 8
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "961353cd-3af7-4bf6-9be1-a28f7ebed15c",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E6%B4%BB%E5%8A%9B%E5%AB%A9%E8%9B%8B%E9%9D%92%E9%86%AC%E7%87%89%E9%A3%AF.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "活力嫩蛋青醬燉飯",
+          "price": 220,
+          "saleQuantity": 5,
+          "saleFigures": 1100
+        }
+      ],
+      "id": 9
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "be1550ba-8968-40e8-abba-c9214b01136d",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%9B%8B%E6%B2%99%E6%8B%89poke.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "夏威夷蛋沙拉poke",
+          "price": 280,
+          "saleQuantity": 1,
+          "saleFigures": 280
+        },
+        {
+          "productId": "a4efe2dc-82f1-4da3-ac4d-ae06b403718f",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "測試商品01",
+          "price": 100,
+          "saleQuantity": 1,
+          "saleFigures": 100
+        }
+      ],
+      "id": 10
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "4460015f-e713-405e-96c4-fbcbc5aca81b",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%BD%8E%E6%B2%B9%E8%88%9E%E8%8F%87%E7%87%89%E9%A3%AF.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "低油舞菇燉飯",
+          "price": 160,
+          "saleQuantity": 5,
+          "saleFigures": 800
+        },
+        {
+          "productId": "a869a4a5-8b26-419e-b35c-056ed47020b3",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E8%96%84%E9%B9%BD%E9%9D%92%E8%B1%86%E9%A2%A8%E5%91%B3%E9%A3%AF.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "薄鹽青豆風味飯",
+          "price": 160,
+          "saleQuantity": 5,
+          "saleFigures": 800
+        }
+      ],
+      "id": 11
+    },
+    {
+      "monthId": "2023-12",
+      "products": [
+        {
+          "productId": "4c722f95-050b-4403-b365-25efbb8443e8",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E4%B9%9D%E5%B1%A4%E5%A1%94%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "九層塔義大利麵",
+          "price": 120,
+          "saleQuantity": 1,
+          "saleFigures": 120
+        },
+        {
+          "productId": "efaa43c1-3619-4499-8a6f-840b4188ff6b",
+          "image": "https://github.com/patrickpie83/DealMeal/blob/main/assets/images/%E5%A1%91%E8%BA%AB%EF%BC%BF%E7%94%B0%E5%9C%92%E8%94%AC%E8%8F%9C%E7%88%BD%E8%BA%AB%E9%A4%83.jpg?raw=true",
+          "series": "塑身系列",
+          "name": "田園蔬菜爽身餃",
+          "price": 130,
+          "saleQuantity": 10,
+          "saleFigures": 1300
+        }
+      ],
+      "id": 12
     }
   ],
   "coupons": [
@@ -1018,8 +1873,8 @@
       "name": "會員註冊禮",
       "usage": "僅一筆",
       "discount": "整筆訂單8折",
-      "state": "停用中",
-      "useCount": 0
+      "state": "發佈中",
+      "useCount": 1
     },
     {
       "id": "dealmealthanks",
@@ -1028,7 +1883,7 @@
       "usage": "每筆",
       "discount": "整筆訂單9折",
       "state": "發佈中",
-      "useCount": 0
+      "useCount": 2
     },
     {
       "id": "happynewyear95",
@@ -1046,7 +1901,7 @@
       "usage": "僅一筆",
       "discount": "整筆折500元",
       "state": "發佈中",
-      "useCount": 0
+      "useCount": 1
     },
     {
       "id": "takeshi95",
@@ -1054,7 +1909,7 @@
       "name": "藝人業配合作",
       "usage": "每筆",
       "discount": "整筆訂單95折",
-      "state": "發佈中",
+      "state": "停用中",
       "useCount": 0
     }
   ]
